@@ -1,0 +1,21 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "LoadTesting.Api", "LoadTesting.Api", "{5B87E3C1-3FD1-4A73-A608-448ED9E6401F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetCore3WebApi", "LoadTesting.Api\NetCore3WebApi\NetCore3WebApi.csproj", "{028DF82B-15C8-42D5-A64D-649301A672A7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{028DF82B-15C8-42D5-A64D-649301A672A7} = {5B87E3C1-3FD1-4A73-A608-448ED9E6401F}
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{028DF82B-15C8-42D5-A64D-649301A672A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{028DF82B-15C8-42D5-A64D-649301A672A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{028DF82B-15C8-42D5-A64D-649301A672A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{028DF82B-15C8-42D5-A64D-649301A672A7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

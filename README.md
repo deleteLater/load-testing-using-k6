@@ -1,0 +1,1 @@
+﻿# Load Testing Using [k6]("https://k6.io/")
